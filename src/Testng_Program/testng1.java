@@ -25,6 +25,19 @@ public class testng1
 		public void delemp()
 		{
 		System.out.println("delete emp");
+			
+		}
+		@Test
+		public void delemp()
+		{
+		System.out.println("delete emp");
+			
+		}
+		@Test
+		public void delemp()
+		{
+		System.out.println("delete emp");
+			
 		}
 		}
 }
