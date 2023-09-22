@@ -23,6 +23,14 @@ public class testng2
 		public void delemp() {
 		System.out.println("delete emp");
 		}
+		@Test(priority=1)
+		public void delemp() {
+		System.out.println("delete emp");
+		}
+		@Test(priority=1)
+		public void delemp() {
+		System.out.println("delete emp");
+		}
 		
 	
 
